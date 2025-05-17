@@ -150,7 +150,7 @@ def eliminar_hoja_de_vida():
 # Función principal que muestra el menú interactivo
 def menu():
     while True:
-        print("===== MENÚ PRINCIPAL =====")
+        print("MENÚ PRINCIPAL")
         print("1. Registrar hoja de vida")
         print("2. Consultar hojas de vida")
         print("3. Actualizar hoja de vida")
