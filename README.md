@@ -1,4 +1,4 @@
-#Sistema de Registro y Consulta de Hojas de Vida en Python
+# Sistema de Registro y Consulta de Hojas de Vida en Python
 
 Este proyecto es una aplicación de consola escrita en Python para gestionar un sistema básico de **registro, consulta, búsqueda y actualización de hojas de vida (currículums)**.
 
